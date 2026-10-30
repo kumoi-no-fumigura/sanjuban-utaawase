@@ -1,10 +1,15 @@
 {
- "work": "三十番歌合",
+ "work": "三十番歌合（群書類従本）",
  "work_id": "gunsho08-sanjuban",
  "repo": "kumoi-no-fumigura/sanjuban-utaawase",
  "yomi": "さんじゅうばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三十番・当座）",
+  "era": "南北朝期",
+  "author": "判者 頓阿",
+  "desc": "霞隔遠樹・羇中見花・松下晩涼・山家秋月・寄神祇祝など十題による当座の三十番歌合。法印・律師ら僧侶を中心とする作者が詠み、頓阿が判を加え、秀歌七首に点を付けた。"
+ },
  "editions": [
   {
    "pid": "1879502",
